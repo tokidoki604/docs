@@ -328,3 +328,9 @@ inTheory is a DeSci funding platform that allows crypto users to fund, support, 
 
 - [Website](https://intheory.impact-finance.io/)
 - [GitHub](https://github.com/Impact-Finance/intheory-mobile-nft-mint-celo)
+
+### Blockless 1st Party Oracle
+
+Blockless allows anyone to launch their 1st party oracle, with a few line of codes. Use Blockless serverless functions to easily bring any real-world data on-chain and perform crazy analytics gasless through verifiable executions.
+- [Website](http://blockless.network)
+- [GitHub](https://github.com/blocklessnetwork/example-bls-celo-carbon-credits-market)
